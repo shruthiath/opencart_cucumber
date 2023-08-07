@@ -189,7 +189,7 @@ public class steps {
 
             Assert.assertTrue(false);
         }
-        driver.close();
+        driver.quit();
     }
 
     //*******   Account Registration Methods    **************
